@@ -28,7 +28,7 @@ export default function About() {
     <>
       <section className='w-full flex flex-wrap justify-between gap-10 py-20 px-5 md:px-20 bg-white'>
         <div className='flex flex-1 flex-col gap-5'>
-          <h3 className='text-[4rem] font-semibold leading-18'>
+          <h3 className='text-[4rem] max-sm:text-[2.8rem] max-sm:leading-13 font-semibold leading-18'>
             Excelência em
             <span className='block text-teal-500'>Odontologia</span>
           </h3>
@@ -59,7 +59,7 @@ export default function About() {
           </div>
         </div>
 
-        <div className='flex flex-1 flex-wrap justify-center gap-5'>
+        <div className='grid grid-cols-2 m-auto gap-5'>
           {
             card.map((item, index) => (
               <div key={index} className='cursor-default  transition-all duration-300 hover:-translate-y-2 animate-scale-in w-full max-w-[200px] flex flex-col justify-center gap-2 p-5 bg-slate-100 rounded-xl'>

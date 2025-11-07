@@ -28,7 +28,7 @@ export default function Services() {
     <>
       <section className='py-20 p-5 md:px-20 bg-slate-100 flex flex-col'>
         <div className='flex flex-col items-center text-center gap-2'>
-          <h3 className='text-[4rem] font-semibold leading-18'>
+          <h3 className='text-[4rem] max-sm:text-[2.8rem] font-semibold leading-18'>
             Nossos Serviços
           </h3>
 
