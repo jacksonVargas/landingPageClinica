@@ -42,4 +42,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 <img src='https://s10.aconvert.com/convert/p3r68-cdx67/a3mjn-r07j3.jpg' /> 
 
-<span><a href='https://landing-page-clinica-kohl.vercel.app/'>Clique aqui</a> para ver o projeto.</span>
+<span><a target='blank' href='https://landing-page-clinica-kohl.vercel.app/'>Clique aqui</a> para ver o projeto.</span>
