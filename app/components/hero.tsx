@@ -12,9 +12,10 @@ export default function Hero() {
             src={heroImage}
             alt='Imagem hero'
             className='w-full h-full object-cover'
+            priority
           />
 
-          <div className="absolute inset-0 bg-linear-to-r from-black/95 via-black/80 to-black/80" />
+          <div className="absolute inset-0 bg-linear-to-r from-zinc-500 via-black/60 to-black/70" />
         </div>
 
         <div className='relative'>
